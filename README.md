@@ -54,7 +54,7 @@
 
 ## 🎯 Professional goals
 
-📖 Continue learning and growing as a web developer, exploring new technologies and development methodologies.
+📖 Continue learning and growing as a web developer, exploring new technologies and development methodologies. <br/>
 😊 Contribute meaningfully to open source projects and share knowledge with the development community.
 
 
