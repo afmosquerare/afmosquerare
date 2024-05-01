@@ -4,19 +4,17 @@
   <br/>
 </div>
 
-  <div >
-    <h3 align="left">👩‍💻  About Me</h3>
-    I'm Andrés Mosquera from Medellin.<br><br>
+  ## 👩‍💻  About Me
+  I'm Andrés Mosquera from Medellin.<br><br>
     🔭 I currently work as a freelance web developer, where I specialize in the development and implementation of new web application functionalities using technologies such as Angular.
 <br>
     📚 I am constantly learning and am currently exploring the capabilities of Nest.js to boost my backend development skills.
 <br>
     🏀 In my free time, I enjoy playing basketball and exploring new technologies and open source projects.
-  </div>
 
 
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🛠 Language and tools
 
 ###
 
@@ -58,19 +56,13 @@
 😊 Contribute meaningfully to open source projects and share knowledge with the development community.
 
 
-
 <div align="center">
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>
 
 
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/afmosquerare/count.svg?"  />
 </div>
-
-###
 
 
