@@ -44,10 +44,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="38" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="38" alt="trello logo"  />
-  <img width="12" />
+<!--   <img width="12" />
   <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="38" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="38" alt="vscode logo"  />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="38" alt="vscode logo"  /> -->
 </div>
 
 ## 🎯 Professional goals
