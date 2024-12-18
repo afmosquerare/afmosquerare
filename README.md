@@ -5,7 +5,7 @@
 </div>
 
   ## 👩‍💻  About Me
-  I'm Andrés Mosquera from Medellin.<br><br>
+  I'm Andrés Rengifo from Medellin.<br><br>
     🔭 I currently work as a freelance web developer, where I specialize in the development and implementation of new web application functionalities using technologies such as Angular.
 <br>
     📚 I am constantly learning and am currently exploring the capabilities of Nest.js to boost my backend development skills.
@@ -28,8 +28,6 @@
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="38" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="38" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="38" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="38" alt="figma logo"  />
   <img width="12" />
